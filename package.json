@@ -1,0 +1,32 @@
+{
+  "name": "simple-workflow",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.6.4",
+    "element-ui": "^2.13.1",
+    "file-saver": "^2.0.2",
+    "topology-chart-diagram": "^0.0.3",
+    "topology-core": "^0.2.13",
+    "vue": "^2.6.11",
+    "vue-router": "^3.1.6",
+    "vuex": "^3.1.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.3.0",
+    "@vue/cli-plugin-router": "~4.3.0",
+    "@vue/cli-plugin-vuex": "~4.3.0",
+    "@vue/cli-service": "~4.3.0",
+    "sass": "^1.26.3",
+    "sass-loader": "^8.0.2",
+    "topology-activity-diagram": "^0.0.6",
+    "topology-class-diagram": "^0.0.4",
+    "topology-flow-diagram": "^0.0.3",
+    "topology-sequence-diagram": "^0.0.6",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
